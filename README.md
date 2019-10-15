@@ -8,7 +8,7 @@ As Karl notes, screen grabs of Google Street view are used by journalists to ill
 This Extension takes the user interface CSS that Karl identifies and turns it off with a cick of the icon. 
 
 ## Making it work.
-1. Download the zip file from here. 
+1. Download the [cleanstreetview.zip] (cleanstreetview.zip)file from here. 
 2. Unzip it somewhere on your computer.
 3. In Google Chrome visit chrome://extensions
 4. Drag and drop the unzipped folder on to the page. A new icon should appear in the tool bar. 
