@@ -11,7 +11,7 @@ This Extension takes the user interface CSS that Karl identifies and turns it of
 1. Download the [cleanstreetview.zip](cleanstreetview.zip) file from here. 
 2. Unzip it somewhere on your computer.
 3. In Google Chrome visit chrome://extensions
-4. Drag and drop the unzipped folder on to the page. A new icon should appear in the tool bar. 
+4. Drag and drop the unzipped folder on to the page. A new icon should appear in the tool bar. You can also upload manually. If you go to chrome://extensions and then look for the **Load Unpacked button**. Click that, navigate to the unziped folder and then click **Select**
 5. Navigate to google maps and choose a location in street view. Karl has some good tips for setting up the right 'shot' in his post. 
 6. Once you're happy, click the Clean StreetView icon and the UI should dissapear. 
 7. Go full screen or take your screen shot in the usual way
