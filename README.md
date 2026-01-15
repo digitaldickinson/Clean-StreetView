@@ -15,5 +15,6 @@ The original extension takes the user interface CSS that Karl identifies and tur
 5. Navigate to google maps and choose a location in street view. Karl has some good tips for setting up the right 'shot' in his post. 
 6. Once you're happy, click the Clean StreetView icon and the UI should dissapear. 
 7. Go full screen or take your screen shot in the usual way
+8. Click the Extension icon to bring the UI back. 
 
 If you want to get the navigation back, just refresh the page. 
