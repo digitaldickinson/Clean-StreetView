@@ -1,11 +1,11 @@
 # Clean-StreetView
-A small google chrome extension that removes as much of the on screen navigation as it can so you can take 'clean' screen shots. 
+A google chrome extension that removes as much of the on screen navigation and other stuff as it can so you can take 'clean' screen shots. 
 
-This was inspired by Karl Hodges Medium post [Take better Google Street View screenshots](https://medium.com/@karlhodge/take-better-google-street-view-screenshots-e8b025861756)
+The orginal was inspired by Karl Hodges Medium post [Take better Google Street View screenshots](https://medium.com/@karlhodge/take-better-google-street-view-screenshots-e8b025861756)
 
 As Karl notes, screen grabs of Google Street view are used by journalists to illustrate stories when your "editor wants you to publish fifty-eight pieces of content every day and won’t let you leave your desk". But the results often look messy when they include the navigation and other user interface elements that StreetView plasters over the content. 
 
-This Extension takes the user interface CSS that Karl identifies and turns it off with a cick of the icon. 
+The original extension takes the user interface CSS that Karl identifies and turns it off with a cick of the icon. This updated version for 2026,  It does a lot of the same thing but it also does some pretty brute force hiding, covering and re-ordering to work! Hopefully behind the scenes! 
 
 ## Making it work.
 1. Download the [cleanstreetview.zip](cleanstreetview.zip) file from here. 
